@@ -23,3 +23,9 @@ It clears log files from the other cron jobs. I set this job to run every Monday
 A basic Telegram bot that sends a YouTube video to a group. 
 >>
 Change the token and chat ID to yours :) 
+
+----
+
+![Raspberry Pi 3B connected](https://i.imgur.com/ZrN2TaR.jpeg)
+
+![Raspberry Pi 3B](https://i.imgur.com/s72LTOf.jpeg)
